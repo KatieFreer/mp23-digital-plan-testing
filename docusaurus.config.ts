@@ -7,7 +7,7 @@ import type * as Preset from "@docusaurus/preset-classic";
 const config: Config = {
   title: "Lousiana's Coastal Master Plan Test",
   tagline: "Testing site for a digital-first master plan",
-  favicon: "img/favicon.ico",
+  favicon: "img/favicon.png",
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -56,7 +56,7 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: "img/docusaurus-social-card.jpg",
+    // image: "img/docusaurus-social-card.jpg",
     colorMode: {
       respectPrefersColorScheme: true,
     },
@@ -64,7 +64,7 @@ const config: Config = {
       title: "Master Plan Test",
       logo: {
         alt: "My Site Logo",
-        src: "img/logo.svg",
+        src: "img/logo.png",
       },
       items: [
         {
