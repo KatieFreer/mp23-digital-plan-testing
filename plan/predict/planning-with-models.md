@@ -13,11 +13,21 @@ Predictive models can be used to understand potential future conditions and to t
 
 Boundary conditions are external inputs to the models that vary over time, such as water levels, river flows, or wind speeds. They are based on historical conditions or predictions of future conditions. Data about elevation, water levels, vegetation, and other aspects of the landscape serve as a starting point, or initial conditions, for the 50-year predictions of landscape change in the ICM. The storm surge and risk assessment models are also informed by the boundary conditions imposed on the ICM as well as information about existing structures and infrastructure across the coast.
 
+<figure>
+    ![Environmental Drivers for the Higher and Lower Scenarios.](./environmental-drivers.png)
+    <figcaption>Environmental Drivers for the Higher and Lower Scenarios.</figcaption>
+</figure>
+
 The future is uncertain with regard to climate-related environmental conditions and, therefore, assumptions about how climate will change must be made to make landscape- and storm damage-related predictions. We know that sea level rise and subsidence, along with precipitation, temperature, tributary flows, and hurricane intensity are key environmental drivers that influence our coastal landscape. We also know that there is uncertainty in how these variables may change over time. To make informed decisions, the master plan employs a scenario approach to define a range of plausible future environmental conditions.
 
 ## Scenarios and Drivers
 
 For the 2023 Coastal Master Plan, we defined two scenarios, referred to as the "lower" and "higher" scenarios, to drive change within the ICM and ADCIRC+SWAN for use in project selection. Analyses from the 2017 Coastal Master Plan showed that two variables, subsidence and sea level rise, had the greatest impact on model outputs; therefore, development of scenarios for this plan began with choosing values for these two model inputs. Sea level rise rates were selected based on climate change modeling from external sources such as the National Oceanic and Atmospheric Administration (NOAA) sea level guidance and the Intergovernmental Panel on Climate Change (IPCC). Subsidence rates were determined through analysis of shallow and deep subsidence rates derived from CRMS and global positioning system (GPS) elevation data, with a greater rate of shallow subsidence applied in the higher scenario than in the lower. Overall, the lower scenario represents more moderate future conditions, while the higher scenario represents more severe conditions with greater sea level rise and shallow subsidence, leading to increased land loss and flood depths compared to the lower scenario.
+
+<figure>
+    ![Sea Level Rise Curves for Project Selection and Range of Plausible Curves.](./sea-level-rise-curves.png)
+    <figcaption>Sea Level Rise Curves for Project Selection and Range of Plausible Curves.</figcaption>
+</figure>
 
 Once sea level rates were selected for the two scenarios, values for the other scenario variables were derived from related global climate model outputs. When considered together, the model outputs of the two scenarios delineate a range of possible future landscapes and damage profiles that can be used to inform decision- making. While the use of this scenario approach does not make the future more certain, it does provide a better understanding of what may come and, thereby, increases confidence in the master plan being well-suited for whatever the future holds. Additional scenario values are used in the prediction of storm surge-based flood damage in CLARA. The analysis does not necessarily assume that all storm surge protection levees hold when storm flooding occurs. Rather, CLARA uses two fragility (i.e., infrastructure performance) scenarios: 
 

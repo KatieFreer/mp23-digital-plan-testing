@@ -7,6 +7,11 @@ description: The future depends on where you start
 
 When modeling the possible futures of coastal Louisiana, outcomes are significantly impacted by the chosen starting point. As part of the master plan development process, the starting landscape was updated from the one used in the 2017 Coastal Master Plan. This landscape update reflected changes in surface elevation, land/water distribution, and vegetation cover and was adjusted to include new restoration or levee projects that were recently constructed.
 
+<figure>
+    ![Operations at West Belle Headland after Hurricane Ida, 2021 (CPRA)](./west-belle-headland.jpg)
+    <figcaption>Operations at West Belle Headland after Hurricane Ida, 2021 (CPRA)</figcaption>
+</figure>
+
 It is important that the initial landscape conditions used in the modeling represent the on the ground conditions as much as possible so that there is confidence that model outputs reasonably reflect landscape responses to candidate restoration and risk reduction projects.
 
 ## Future Without Action Currently Funded Projects (FWOCFP)
@@ -38,4 +43,14 @@ The impact of these projects can be seen in output maps for FWOA model runs (see
 
 Even with these projects assumed to be on the ground, the FWOA landscape realizes significant land loss and increases to storm surge-based flood depths over the 50-year model prediction. Under the lower scenario, 1,100 sq mi of land are lost at Year 50; an equivalent amount of loss occurs by Year 34 under the higher scenario, with up to 3,000 sq mi lost at Year 50 under those more severe environmental conditions. 
 
+<figure>
+    ![Land Area Over 50 Years, FWA and FWOCFP, Higher and Lower Scenario.](./land-area.png)
+    <figcaption>Land Area Over 50 Years, FWA and FWOCFP, Higher and Lower Scenario.</figcaption>
+</figure>
+
 This land loss impacts not only the landscape configuration and ecology but also results in changes to storm surge and waves and, thus, flood-related damages. Without additional project implementation, flood damages could increase by up to $19 billion annually, with 17,000 additional structures damaged due to significant increases in flood depths. These possible futures without action reveal the challenges that the 2023 Coastal Master Plan was developed to address.
+
+<figure>
+    ![Expected Annual Damage in Dollars (EADD) and Expected Annual Structural Damage (EASD), Over 50 Years, Future Without Action, Higher and Lower Scenario.](./eadd-easd.png)
+    <figcaption>Expected Annual Damage in Dollars (EADD) and Expected Annual Structural Damage (EASD), Over 50 Years, Future Without Action, Higher and Lower Scenario.</figcaption>
+</figure>
