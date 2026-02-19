@@ -28,7 +28,13 @@ export default function Home(): ReactNode {
     <Layout title={siteConfig.title} description={siteConfig.tagline}>
       <HomepageHeader />
       <main>
-        <HomepageFeatures />
+        <ul style={{ margin: "2rem" }}>
+          <li>
+            <a href="/mp23-digital-plan-testing/plan/category/predicting-a-future-without-action">
+              Predicting a Future Without Action
+            </a>
+          </li>
+        </ul>
       </main>
     </Layout>
   );
