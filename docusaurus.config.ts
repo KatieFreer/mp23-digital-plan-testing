@@ -87,8 +87,8 @@ const config: Config = {
           title: "2023 Coastal Master Plan",
           items: [
             {
-              label: "Predict",
-              to: "/plan/category/predict",
+              label: "Predicting a Future Without Action",
+              to: "/plan/category/predicting-a-future-without-action",
             },
           ],
         },
